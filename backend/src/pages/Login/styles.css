@@ -1,0 +1,41 @@
+.container{
+    width: 100%;
+    margin: 0 auto;
+    border: 2px solid black;
+
+
+}
+.container-login{
+    width: 100%;
+    min-height: 100vh;
+
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+
+    padding: 15px;
+    background-color: #111111;
+
+}
+.wrap-login{
+    width: 100%;
+}
+.login-form-title{
+    display: block;
+    font-size: 30px;
+    color: azure;
+
+    line-height: 1.2;
+    text-align: center;
+}
+.login-form-title img{
+    width: 90px;
+}
+.wrap-input{
+    width: 100%;
+    position: relative;
+    border-bottom: 2px solid #ADADAD;
+    margin-bottom: 37px;
+
+}
